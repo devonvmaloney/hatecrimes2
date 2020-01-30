@@ -1,13 +1,7 @@
----
-title: "A Geovisualization of Hate Crimes in the US from 1991-2017"
-output: 
-  html_document: 
-    keep_md: true
----
-
-
 
 ## R Markdown
+HATE CRIMES
+
 Group Project 1
 
 Geog 456 Geovisualizing change
